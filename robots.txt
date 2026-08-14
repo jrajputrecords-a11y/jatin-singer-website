@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jatin-singer.pages.dev/sitemap.xml
